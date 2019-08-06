@@ -65,6 +65,7 @@ body {
 }
 
 #code {
+	margin-top: 20px;
 	float: left;
 	width: 440px;
 	color: #333;
